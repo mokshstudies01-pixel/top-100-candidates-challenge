@@ -1,0 +1,2 @@
+# This pipeline runs entirely using Python's standard library.
+# No external package installations are required.

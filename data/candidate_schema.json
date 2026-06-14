@@ -1,0 +1,130 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Candidate",
+  "type": "OBJECT",
+  "properties": {
+    "candidate_id": {
+      "type": "STRING",
+      "description": "Unique identifier for the candidate"
+    },
+    "profile": {
+      "type": "OBJECT",
+      "properties": {
+        "anonymized_name": { "type": "STRING" },
+        "headline": { "type": "STRING" },
+        "summary": { "type": "STRING" },
+        "location": { "type": "STRING" },
+        "country": { "type": "STRING" },
+        "years_of_experience": { "type": "NUMBER" },
+        "current_title": { "type": "STRING" },
+        "current_company": { "type": "STRING" },
+        "current_company_size": { "type": "STRING" },
+        "current_industry": { "type": "STRING" }
+      },
+      "required": ["years_of_experience", "current_title", "current_company"]
+    },
+    "career_history": {
+      "type": "ARRAY",
+      "items": {
+        "type": "OBJECT",
+        "properties": {
+          "company": { "type": "STRING" },
+          "title": { "type": "STRING" },
+          "start_date": { "type": ["STRING", "null"] },
+          "end_date": { "type": ["STRING", "null"] },
+          "duration_months": { "type": "INTEGER" },
+          "is_current": { "type": "BOOLEAN" },
+          "industry": { "type": "STRING" },
+          "company_size": { "type": "STRING" },
+          "description": { "type": "STRING" }
+        }
+      }
+    },
+    "education": {
+      "type": "ARRAY",
+      "items": {
+        "type": "OBJECT",
+        "properties": {
+          "institution": { "type": "STRING" },
+          "degree": { "type": "STRING" },
+          "field_of_study": { "type": "STRING" },
+          "start_year": { "type": "INTEGER" },
+          "end_year": { "type": "INTEGER" },
+          "grade": { "type": "STRING" },
+          "tier": { "type": "STRING" }
+        }
+      }
+    },
+    "skills": {
+      "type": "ARRAY",
+      "items": {
+        "type": "OBJECT",
+        "properties": {
+          "name": { "type": "STRING" },
+          "proficiency": { "type": "STRING" },
+          "endorsements": { "type": "INTEGER" },
+          "duration_months": { "type": "INTEGER" }
+        }
+      }
+    },
+    "certifications": {
+      "type": "ARRAY",
+      "items": {
+        "type": "OBJECT",
+        "properties": {
+          "name": { "type": "STRING" },
+          "issuer": { "type": "STRING" },
+          "year": { "type": "INTEGER" }
+        }
+      }
+    },
+    "languages": {
+      "type": "ARRAY",
+      "items": {
+        "type": "OBJECT",
+        "properties": {
+          "language": { "type": "STRING" },
+          "proficiency": { "type": "STRING" }
+        }
+      }
+    },
+    "redrob_signals": {
+      "type": "OBJECT",
+      "properties": {
+        "profile_completeness_score": { "type": "NUMBER" },
+        "signup_date": { "type": "STRING" },
+        "last_active_date": { "type": "STRING" },
+        "open_to_work_flag": { "type": "BOOLEAN" },
+        "profile_views_received_30d": { "type": "INTEGER" },
+        "applications_submitted_30d": { "type": "INTEGER" },
+        "recruiter_response_rate": { "type": "NUMBER" },
+        "avg_response_time_hours": { "type": "NUMBER" },
+        "skill_assessment_scores": {
+          "type": "OBJECT",
+          "additionalProperties": { "type": "NUMBER" }
+        },
+        "connection_count": { "type": "INTEGER" },
+        "endorsements_received": { "type": "INTEGER" },
+        "notice_period_days": { "type": "INTEGER" },
+        "expected_salary_range_inr_lpa": {
+          "type": "OBJECT",
+          "properties": {
+            "min": { "type": "NUMBER" },
+            "max": { "type": "NUMBER" }
+          }
+        },
+        "preferred_work_mode": { "type": "STRING" },
+        "willing_to_relocate": { "type": "BOOLEAN" },
+        "github_activity_score": { "type": "NUMBER" },
+        "search_appearance_30d": { "type": "INTEGER" },
+        "saved_by_recruiters_30d": { "type": "INTEGER" },
+        "interview_completion_rate": { "type": "NUMBER" },
+        "offer_acceptance_rate": { "type": "NUMBER" },
+        "verified_email": { "type": "BOOLEAN" },
+        "verified_phone": { "type": "BOOLEAN" },
+        "linkedin_connected": { "type": "BOOLEAN" }
+      }
+    }
+  },
+  "required": ["candidate_id", "profile", "skills", "redrob_signals"]
+}

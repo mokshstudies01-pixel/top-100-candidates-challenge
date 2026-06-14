@@ -1,0 +1,101 @@
+rank,candidate_id,verdict,quality_score,reasoning
+1,CAND_0005260,CLEAN,0.923839,"Senior NLP Engineer | 5.2yrs; Yellow.ai, Netflix; retrieval:1.00 prodML:1.00 pedigree:1.00; RRR:86% GH:-1; skills:[Information Retrieval, Semantic Search, RAG]"
+2,CAND_0005649,CLEAN,0.922254,"Senior Data Scientist | 7.4yrs; Amazon, Sarvam AI; retrieval:1.00 prodML:1.00 pedigree:0.95; RRR:57% GH:81; skills:[Recommendation Systems, Semantic Search, Weaviate]"
+3,CAND_0068811,CLEAN,0.920632,"Applied ML Engineer | 8.0yrs; Salesforce, Freshworks, Meesho; retrieval:1.00 prodML:1.00 pedigree:1.00; RRR:42% GH:23; skills:[Vector Search, Qdrant, Pinecone]"
+4,CAND_0043228,CLEAN,0.907282,"Applied ML Engineer | 6.8yrs; Zoho, Yellow.ai; retrieval:1.00 prodML:0.88 pedigree:1.00; RRR:41% GH:48; skills:[Vector Search, Weaviate, OpenSearch]"
+5,CAND_0039838,CLEAN,0.902777,"Recommendation Systems Engineer | 4.9yrs; Amazon, Microsoft; retrieval:0.95 prodML:1.00 pedigree:1.00; RRR:80% GH:36; skills:[Semantic Search, RAG, Milvus]"
+6,CAND_0027691,CLEAN,0.896036,"NLP Engineer | 6.5yrs; Meta, Haptik; retrieval:0.93 prodML:1.00 pedigree:1.00; RRR:68% GH:58; skills:[Recommendation Systems, Weaviate, Semantic Search]"
+7,CAND_0006418,CLEAN,0.894053,"Machine Learning Engineer | 5.7yrs; Verloop.io, Flipkart; retrieval:0.93 prodML:0.88 pedigree:1.00; RRR:92% GH:60; skills:[Semantic Search, Weaviate, Elasticsearch]"
+8,CAND_0011162,CLEAN,0.887112,"Recommendation Systems Engineer | 5.8yrs; Meesho, Google; retrieval:1.00 prodML:0.88 pedigree:1.00; RRR:75% GH:34; skills:[FAISS, Vector Search, Milvus]"
+9,CAND_0016163,CLEAN,0.884788,"Applied ML Engineer | 6.7yrs; Amazon, Dream11, Verloop.io; retrieval:1.00 prodML:0.75 pedigree:1.00; RRR:72% GH:95; skills:[Weaviate, Pinecone]"
+10,CAND_0058575,CLEAN,0.881936,"AI Engineer | 5.8yrs; Uber, Krutrim; retrieval:0.93 prodML:1.00 pedigree:1.00; RRR:69% GH:35; skills:[Recommendation Systems, Pinecone]"
+11,CAND_0077285,CLEAN,0.870780,"Recommendation Systems Engineer | 5.5yrs; Nykaa, Netflix; retrieval:0.87 prodML:1.00 pedigree:1.00; RRR:56% GH:76; skills:[Pinecone, Information Retrieval, Milvus]"
+12,CAND_0086022,CLEAN,0.870228,"Senior Applied Scientist | 5.3yrs; Uber, Sarvam AI; retrieval:1.00 prodML:0.75 pedigree:1.00; RRR:55% GH:75; skills:[Vector Search, Recommendation Systems, Elasticsearch]"
+13,CAND_0015528,CLEAN,0.869781,"Applied ML Engineer | 7.4yrs; Rephrase.ai, Krutrim; retrieval:0.85 prodML:1.00 pedigree:1.00; RRR:53% GH:51; skills:[Weaviate, Information Retrieval, OpenSearch]"
+14,CAND_0076831,CLEAN,0.862909,"Search Engineer | 4.0yrs; Zomato, Krutrim; retrieval:0.95 prodML:1.00 pedigree:1.00; RRR:50% GH:47; skills:[Milvus, BM25, Weaviate]"
+15,CAND_0081053,CLEAN,0.859298,"NLP Engineer | 5.4yrs; Salesforce; retrieval:0.85 prodML:1.00 pedigree:0.92; RRR:83% GH:78; skills:[Qdrant, Semantic Search, Weaviate]"
+16,CAND_0095528,CLEAN,0.856758,"Senior Data Scientist | 5.3yrs; Netflix; retrieval:1.00 prodML:1.00 pedigree:0.73; RRR:55% GH:-1; skills:[OpenSearch, Semantic Search, Vector Search]"
+17,CAND_0033861,CLEAN,0.856463,"Senior NLP Engineer | 8.0yrs; Paytm, Sarvam AI; retrieval:1.00 prodML:0.75 pedigree:0.96; RRR:16% GH:33; skills:[Weaviate, Elasticsearch, Pinecone]"
+18,CAND_0058688,CLEAN,0.853419,"AI Engineer | 6.7yrs; Apple; retrieval:0.77 prodML:1.00 pedigree:1.00; RRR:74% GH:39; skills:[Information Retrieval, Milvus, Semantic Search]"
+19,CAND_0022812,CLEAN,0.850176,"Applied ML Engineer | 4.5yrs; Dream11, Razorpay; retrieval:0.85 prodML:1.00 pedigree:1.00; RRR:79% GH:-1; skills:[Weaviate, Pinecone, Qdrant]"
+20,CAND_0010685,CLEAN,0.849874,"NLP Engineer | 6.7yrs; Rephrase.ai, Microsoft; retrieval:1.00 prodML:0.88 pedigree:0.82; RRR:83% GH:-1; skills:[Information Retrieval, Elasticsearch, RAG]"
+21,CAND_0076251,CLEAN,0.846444,"Search Engineer | 7.6yrs; Microsoft, CRED, Haptik; retrieval:1.00 prodML:0.75 pedigree:1.00; RRR:51% GH:-1; skills:[Weaviate, Elasticsearch, Semantic Search]"
+22,CAND_0045250,CLEAN,0.844289,"Applied ML Engineer | 6.6yrs; Rephrase.ai, Paytm; retrieval:0.77 prodML:1.00 pedigree:1.00; RRR:74% GH:-1; skills:[Milvus, Vector Search, BM25]"
+23,CAND_0044855,CLEAN,0.839334,"Senior Data Scientist | 6.6yrs; LinkedIn, Flipkart, Verloop.io; retrieval:1.00 prodML:0.50 pedigree:1.00; RRR:57% GH:47; skills:[OpenSearch, Information Retrieval, Pinecone]"
+24,CAND_0075249,CLEAN,0.834165,"Applied ML Engineer | 6.2yrs; Zomato; retrieval:1.00 prodML:0.62 pedigree:1.00; RRR:82% GH:37; skills:[Milvus, BM25, Pinecone]"
+25,CAND_0083307,CLEAN,0.833287,"Search Engineer | 7.8yrs; Ola, CRED, Netflix; retrieval:1.00 prodML:0.50 pedigree:1.00; RRR:70% GH:69; skills:[Pinecone, Weaviate, Semantic Search]"
+26,CAND_0098846,CLEAN,0.832550,"AI Engineer | 7.6yrs; Meesho, Google, Swiggy; retrieval:0.68 prodML:1.00 pedigree:1.00; RRR:62% GH:86; skills:[Qdrant, Recommendation Systems]"
+27,CAND_0065195,CLEAN,0.826723,Search Engineer | 5.1yrs; ensemble score; RRR:80% GH:87
+28,CAND_0052328,CLEAN,0.826583,"Recommendation Systems Engineer | 6.5yrs; Amazon; retrieval:0.87 prodML:0.75 pedigree:0.95; RRR:79% GH:78; skills:[OpenSearch, Recommendation Systems, Vector Search]"
+29,CAND_0079387,CLEAN,0.823423,AI Engineer | 6.9yrs; ensemble score; RRR:81% GH:64
+30,CAND_0094056,CLEAN,0.821057,"NLP Engineer | 5.9yrs; Rephrase.ai; retrieval:1.00 prodML:0.75 pedigree:0.72; RRR:82% GH:65; skills:[Pinecone, Milvus, BM25]"
+31,CAND_0010603,CLEAN,0.820123,ML Engineer | 5.3yrs; ensemble score; RRR:94% GH:79
+32,CAND_0042506,CLEAN,0.819695,"Search Engineer | 4.2yrs; Verloop.io, Meesho; retrieval:1.00 prodML:0.50 pedigree:1.00; RRR:48% GH:64; skills:[Semantic Search, Information Retrieval, Milvus]"
+33,CAND_0061265,CLEAN,0.819163,"Recommendation Systems Engineer | 6.6yrs; Paytm, Zoho; retrieval:1.00 prodML:0.75 pedigree:0.75; RRR:94% GH:80; skills:[Qdrant, Vector Search, Milvus]"
+34,CAND_0094759,CLEAN,0.817688,"Lead AI Engineer | 8.6yrs; Apple, Meta; retrieval:1.00 prodML:0.62 pedigree:0.83; RRR:11% GH:76; skills:[Semantic Search, Qdrant, Vector Search]"
+35,CAND_0054123,CLEAN,0.817527,"Applied ML Engineer | 4.7yrs; CRED, Meta; retrieval:1.00 prodML:0.50 pedigree:1.00; RRR:87% GH:72; skills:[Weaviate, Qdrant, Vector Search]"
+36,CAND_0011687,CLEAN,0.816822,Senior NLP Engineer | 7.8yrs; ensemble score; RRR:89% GH:76
+37,CAND_0007411,CLEAN,0.816385,"Senior Machine Learning Engineer | 8.0yrs; Amazon, Yellow.ai; retrieval:1.00 prodML:0.50 pedigree:1.00; RRR:12% GH:90; skills:[OpenSearch, Vector Search, BM25]"
+38,CAND_0061339,CLEAN,0.815295,"Search Engineer | 4.2yrs; Rephrase.ai, Zoho, Krutrim; retrieval:0.95 prodML:0.62 pedigree:1.00; RRR:90% GH:86; skills:[Information Retrieval, Milvus, Vector Search]"
+39,CAND_0092706,CLEAN,0.813522,AI Research Engineer | 5.8yrs; ensemble score; RRR:78% GH:65
+40,CAND_0046132,CLEAN,0.810222,AI Research Engineer | 4.3yrs; ensemble score; RRR:94% GH:-1
+41,CAND_0041669,CLEAN,0.808227,"Recommendation Systems Engineer | 8.0yrs; CRED, Yellow.ai; retrieval:1.00 prodML:0.62 pedigree:0.63; RRR:77% GH:71; skills:[FAISS, Milvus, Semantic Search]"
+42,CAND_0096142,CLEAN,0.806922,Applied ML Engineer | 5.0yrs; ensemble score; RRR:84% GH:80
+43,CAND_0092278,CLEAN,0.806204,"Senior NLP Engineer | 6.8yrs; Paytm, Microsoft; retrieval:1.00 prodML:0.62 pedigree:1.00; RRR:7% GH:-1; skills:[Elasticsearch, Vector Search, Milvus]"
+44,CAND_0053591,CLEAN,0.803621,AI Engineer | 5.3yrs; ensemble score; RRR:81% GH:76
+45,CAND_0093912,CLEAN,0.800321,Senior Data Scientist | 5.3yrs; ensemble score; RRR:66% GH:82
+46,CAND_0052682,CLEAN,0.797021,NLP Engineer | 6.6yrs; ensemble score; RRR:88% GH:72
+47,CAND_0036184,CLEAN,0.795315,"Recommendation Systems Engineer | 6.0yrs; CRED; retrieval:1.00 prodML:0.25 pedigree:1.00; RRR:90% GH:43; skills:[FAISS, Semantic Search, Vector Search]"
+48,CAND_0083879,CLEAN,0.794271,"Machine Learning Engineer | 7.1yrs; Ola, PhonePe, Swiggy; retrieval:0.68 prodML:1.00 pedigree:1.00; RRR:47% GH:-1; skills:[Milvus]"
+49,CAND_0083852,CLEAN,0.793721,Data Scientist | 6.0yrs; ensemble score; RRR:85% GH:71
+50,CAND_0047721,CLEAN,0.793040,"Senior Data Scientist | 7.0yrs; Microsoft; retrieval:1.00 prodML:0.50 pedigree:0.80; RRR:49% GH:90; skills:[Milvus, BM25, RAG]"
+51,CAND_0073314,CLEAN,0.790420,Senior Software Engineer (ML) | 5.2yrs; ensemble score; RRR:84% GH:67
+52,CAND_0041610,CLEAN,0.789159,"Recommendation Systems Engineer | 6.7yrs; Zoho, Swiggy; retrieval:0.95 prodML:0.75 pedigree:0.67; RRR:52% GH:52; skills:[Elasticsearch, OpenSearch, BM25]"
+53,CAND_0041568,CLEAN,0.788379,"Search Engineer | 5.2yrs; Salesforce, Flipkart, Haptik; retrieval:1.00 prodML:0.50 pedigree:1.00; RRR:52% GH:-1; skills:[Weaviate, Vector Search, BM25]"
+54,CAND_0084819,CLEAN,0.787705,"Search Engineer | 4.5yrs; Dream11, Razorpay; retrieval:1.00 prodML:0.38 pedigree:1.00; RRR:74% GH:56; skills:[Semantic Search, BM25, OpenSearch]"
+55,CAND_0018722,CLEAN,0.787120,Recommendation Systems Engineer | 6.6yrs; ensemble score; RRR:79% GH:94
+56,CAND_0001610,CLEAN,0.785375,"Machine Learning Engineer | 3.0yrs; Dream11, Zoho, Flipkart; retrieval:1.00 prodML:0.50 pedigree:1.00; RRR:57% GH:40; skills:[Pinecone, Milvus, Information Retrieval]"
+57,CAND_0018549,CLEAN,0.784909,"Recommendation Systems Engineer | 6.8yrs; Uber, Flipkart; retrieval:1.00 prodML:0.38 pedigree:1.00; RRR:73% GH:56; skills:[Weaviate, Elasticsearch, Qdrant]"
+58,CAND_0081686,CLEAN,0.783845,"Search Engineer | 6.0yrs; Zoho, Netflix; retrieval:1.00 prodML:0.50 pedigree:0.81; RRR:91% GH:46; skills:[FAISS, Milvus, Semantic Search]"
+59,CAND_0051615,CLEAN,0.783820,Search Engineer | 4.6yrs; ensemble score; RRR:88% GH:95
+60,CAND_0043860,CLEAN,0.780520,Junior ML Engineer | 6.1yrs; ensemble score; RRR:81% GH:-1
+61,CAND_0056881,CLEAN,0.780213,"Machine Learning Engineer | 4.5yrs; Zomato; retrieval:0.77 prodML:0.88 pedigree:0.93; RRR:75% GH:-1; skills:[Elasticsearch, Information Retrieval, Pinecone]"
+62,CAND_0096172,CLEAN,0.779091,"NLP Engineer | 5.2yrs; Dream11, Krutrim; retrieval:1.00 prodML:0.38 pedigree:1.00; RRR:47% GH:65; skills:[OpenSearch, Elasticsearch, Semantic Search]"
+63,CAND_0089552,CLEAN,0.778873,"Machine Learning Engineer | 6.0yrs; Netflix; retrieval:1.00 prodML:0.38 pedigree:0.99; RRR:49% GH:38; skills:[Weaviate, Qdrant, Semantic Search]"
+64,CAND_0054394,CLEAN,0.778335,Recommendation Systems Engineer | 4.1yrs; Netflix; retrieval:1.00 prodML:0.50 pedigree:0.99; RRR:64% GH:32; skills:[Pinecone]
+65,CAND_0049896,CLEAN,0.778211,"Search Engineer | 7.3yrs; Unacademy, Flipkart; retrieval:0.95 prodML:0.50 pedigree:1.00; RRR:43% GH:-1; skills:[Information Retrieval, Vector Search]"
+66,CAND_0058146,CLEAN,0.777220,AI Research Engineer | 5.1yrs; ensemble score; RRR:79% GH:80
+67,CAND_0054100,CLEAN,0.773919,Junior ML Engineer | 6.0yrs; ensemble score; RRR:79% GH:73
+68,CAND_0037000,CLEAN,0.773795,"Search Engineer | 2.7yrs; Unacademy, CRED; retrieval:0.95 prodML:0.50 pedigree:1.00; RRR:61% GH:67; skills:[Semantic Search, FAISS, Pinecone]"
+69,CAND_0030953,CLEAN,0.772017,"Search Engineer | 7.8yrs; Nykaa; retrieval:1.00 prodML:0.62 pedigree:0.68; RRR:63% GH:21; skills:[Qdrant, Weaviate, RAG]"
+70,CAND_0066376,CLEAN,0.770976,"Applied ML Engineer | 5.7yrs; Dream11, Salesforce; retrieval:1.00 prodML:0.38 pedigree:1.00; RRR:51% GH:-1; skills:[Recommendation Systems, Information Retrieval, BM25]"
+71,CAND_0050454,CLEAN,0.770619,AI Engineer | 6.8yrs; ensemble score; RRR:77% GH:-1
+72,CAND_0020877,CLEAN,0.767793,"Applied ML Engineer | 5.1yrs; BYJU'S, CRED; retrieval:1.00 prodML:0.25 pedigree:1.00; RRR:66% GH:74; skills:[Elasticsearch, OpenSearch, Information Retrieval]"
+73,CAND_0099401,CLEAN,0.767546,"NLP Engineer | 7.7yrs; Dream11, Microsoft; retrieval:0.85 prodML:1.00 pedigree:0.64; RRR:42% GH:24; skills:[BM25, Qdrant, Information Retrieval]"
+74,CAND_0043637,CLEAN,0.767319,Junior ML Engineer | 5.5yrs; ensemble score; RRR:92% GH:-1
+75,CAND_0018888,CLEAN,0.767284,"AI Research Engineer | 6.5yrs; Zomato, Razorpay; retrieval:0.70 prodML:0.75 pedigree:1.00; RRR:55% GH:51; skills:[Information Retrieval, FAISS]"
+76,CAND_0048558,CLEAN,0.765781,"Data Scientist | 6.7yrs; Rephrase.ai, Paytm; retrieval:0.85 prodML:0.62 pedigree:1.00; RRR:80% GH:-1; skills:[Information Retrieval, OpenSearch, Qdrant]"
+77,CAND_0029367,CLEAN,0.764886,"Senior Data Scientist | 5.7yrs; Rephrase.ai, CRED; retrieval:1.00 prodML:0.25 pedigree:1.00; RRR:77% GH:40; skills:[FAISS, RAG, Pinecone]"
+78,CAND_0010149,CLEAN,0.764019,ML Engineer | 6.9yrs; ensemble score; RRR:82% GH:18
+79,CAND_0015065,CLEAN,0.763376,"AI Research Engineer | 3.9yrs; Nykaa, Flipkart; retrieval:0.87 prodML:0.62 pedigree:1.00; RRR:84% GH:49; skills:[Qdrant, RAG, Information Retrieval]"
+80,CAND_0062247,CLEAN,0.763289,"AI Engineer | 7.3yrs; Dream11, Google; retrieval:1.00 prodML:0.12 pedigree:1.00; RRR:78% GH:53; skills:[Pinecone, Vector Search, Qdrant]"
+81,CAND_0013613,CLEAN,0.761708,"Machine Learning Engineer | 4.7yrs; Salesforce, Razorpay; retrieval:1.00 prodML:0.50 pedigree:0.87; RRR:73% GH:67; skills:[Weaviate]"
+82,CAND_0069905,CLEAN,0.761090,"Applied ML Engineer | 6.6yrs; Nykaa, Sarvam AI; retrieval:1.00 prodML:0.50 pedigree:0.70; RRR:78% GH:45; skills:[Recommendation Systems, Weaviate]"
+83,CAND_0049540,CLEAN,0.760718,ML Engineer | 6.8yrs; ensemble score; RRR:86% GH:-1
+84,CAND_0040117,CLEAN,0.760351,"Recommendation Systems Engineer | 6.5yrs; PhonePe, Salesforce; retrieval:0.95 prodML:0.50 pedigree:1.00; RRR:66% GH:-1; skills:[RAG, FAISS, BM25]"
+85,CAND_0000031,CLEAN,0.758579,"Recommendation Systems Engineer | 6.0yrs; Uber, Zomato, Swiggy; retrieval:0.78 prodML:0.50 pedigree:1.00; RRR:91% GH:33; skills:[FAISS, Pinecone, Information Retrieval]"
+86,CAND_0050876,CLEAN,0.758195,"Applied ML Engineer | 6.0yrs; Razorpay, Freshworks, Yellow.ai; retrieval:0.68 prodML:0.62 pedigree:1.00; RRR:67% GH:86; skills:[Qdrant, FAISS, OpenSearch]"
+87,CAND_0070525,CLEAN,0.757418,Senior Software Engineer (ML) | 5.4yrs; ensemble score; RRR:93% GH:18
+88,CAND_0011432,CLEAN,0.755295,"Senior Data Scientist | 7.6yrs; Amazon, Nykaa, Krutrim; retrieval:0.77 prodML:0.62 pedigree:1.00; RRR:67% GH:20; skills:[OpenSearch, Elasticsearch]"
+89,CAND_0046353,CLEAN,0.754307,"ML Engineer | 6.4yrs; Paytm, Razorpay; retrieval:0.68 prodML:0.62 pedigree:1.00; RRR:73% GH:77; skills:[FAISS, Qdrant, BM25]"
+90,CAND_0098217,CLEAN,0.754118,ML Engineer | 6.4yrs; ensemble score; RRR:84% GH:81
+91,CAND_0060303,CLEAN,0.752179,"AI Research Engineer | 4.9yrs; BYJU'S, Zomato; retrieval:0.95 prodML:0.38 pedigree:1.00; RRR:75% GH:58; skills:[Semantic Search, RAG, Weaviate]"
+92,CAND_0076904,CLEAN,0.751829,"Senior Data Scientist | 4.2yrs; Nykaa; retrieval:1.00 prodML:0.50 pedigree:0.80; RRR:54% GH:-1; skills:[Recommendation Systems, Vector Search, Information Retrieval]"
+93,CAND_0034645,CLEAN,0.751803,"Senior Software Engineer (ML) | 3.7yrs; Rephrase.ai; retrieval:0.75 prodML:0.75 pedigree:1.00; RRR:83% GH:11; skills:[OpenSearch, Vector Search, BM25]"
+94,CAND_0032887,CLEAN,0.750818,ML Engineer | 6.1yrs; ensemble score; RRR:81% GH:52
+95,CAND_0037160,CLEAN,0.750510,"Data Scientist | 6.0yrs; Verloop.io, Haptik; retrieval:0.77 prodML:0.50 pedigree:1.00; RRR:74% GH:28; skills:[Weaviate, Vector Search, Semantic Search]"
+96,CAND_0057701,CLEAN,0.749199,"Recommendation Systems Engineer | 4.1yrs; Verloop.io; retrieval:0.95 prodML:0.38 pedigree:1.00; RRR:56% GH:65; skills:[OpenSearch, Qdrant, Milvus]"
+97,CAND_0098780,CLEAN,0.747256,"AI Research Engineer | 5.9yrs; Unacademy, Zomato; retrieval:0.87 prodML:0.50 pedigree:1.00; RRR:57% GH:-1; skills:[Semantic Search, Milvus, Weaviate]"
+98,CAND_0002706,CLEAN,0.744217,Junior ML Engineer | 6.9yrs; ensemble score; RRR:58% GH:79
+99,CAND_0075439,CLEAN,0.743259,"Machine Learning Engineer | 4.3yrs; Flipkart; retrieval:1.00 prodML:0.50 pedigree:0.71; RRR:56% GH:66; skills:[Elasticsearch, OpenSearch, Vector Search]"
+100,CAND_0004402,CLEAN,0.740917,AI Research Engineer | 6.0yrs; ensemble score; RRR:83% GH:-1

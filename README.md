@@ -1,7 +1,16 @@
 # Redrob Intelligent Candidate Discovery & Ranking
 
-This repository contains the reproduction code for generating the final `top100_clean.csv` submission file, containing 100% clean, verified candidates ranked by quality score.
+SmartHire AI is an intelligent candidate discovery and ranking system built for the Redrob Intelligent Candidate Discovery & Ranking Challenge.
 
+Unlike traditional ATS systems that rely on keyword matching, SmartHire evaluates candidates using a combination of:
+
+- Semantic role understanding
+- Career progression analysis
+- Recruitability signals
+- Behavioral indicators
+- Honeypot and anomaly detection
+
+The system ranks candidates the way an experienced recruiter would, prioritizing genuine fit over keyword density.
 ## Directory Structure
 
 ```
